@@ -1,7 +1,7 @@
 {
   "name": "hola-mundo-final",
   "version": "1.0.0",
-  "description": "Creacion carpeta Final",
+  "description": "Modificacion de la carpeta Final",
   "main": "servidor.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
